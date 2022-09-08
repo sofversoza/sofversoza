@@ -8,8 +8,8 @@ I was born in *Manila* and I'm currently based in *Phoenix*.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofversoza&layout=compact&show_icons=true&theme=dracula)](https://github.com/sofversoza/github-readme-stats)
 
-<a href="https://github.com/sofversoza/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sofversoza&repo=github-readme-stats" />
+<a href="[https://github.com/sofversoza/github-readme-stats](https://github.com/sofversoza/github-readme-stats)">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=sofversoza&repo=github-readme-stats](https://github.com/sofversoza/github-readme-stats)" />
 </a>
 <a href="https://github.com/sofversoza/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sofversoza&repo=convoychat" />
