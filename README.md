@@ -6,7 +6,7 @@ I was born in *Manila* and I'm currently based in *Phoenix*.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofversoza&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofversoza&layout=compact)](https://github.com/sofversoza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofversoza&layout=compact&show_icons=true&theme=radical)](https://github.com/sofversoza/github-readme-stats)
 
 
 
