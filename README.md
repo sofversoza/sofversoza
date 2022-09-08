@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello! I'm *Sofia* —— nice to see you here!
+
+I'm a Full Stack Web Developer focusing and ***passionate*** in Front End Web Development and Web & User Interface Design. 
+
+I was born in *Manila* and I'm currently based in *Phoenix*.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofversoza)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sofversoza/sofversoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
