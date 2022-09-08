@@ -1,6 +1,6 @@
 ### Hello! I'm *Sofia* —— nice to see you here!
 
-I'm a Full Stack Web Developer focusing and ***passionate*** in Front End Web Development and Web & User Interface Design. 
+I'm a Full Stack Web Developer focusing and *passionate* in Front End Web Development and Web & User Interface Design. 
 
 I was born in *Manila* and I'm currently based in *Phoenix*.
 
