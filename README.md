@@ -1,8 +1,8 @@
 ### Hello! I'm *Sofia* —— nice to see you here!
 
-I'm a Full Stack Web Developer focusing and *passionate* in Front End Web Development and Web & User Interface Design. 
+<!-- I'm a Full Stack Web Developer focusing and *passionate* in Front End Web Development and Web & User Interface Design. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofversoza&layout=compact&show_icons=true&theme=dracula)](https://github.com/sofversoza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofversoza&layout=compact&show_icons=true&theme=dracula)](https://github.com/sofversoza/github-readme-stats) -->
 
 
 
