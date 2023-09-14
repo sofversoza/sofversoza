@@ -1,4 +1,4 @@
-### Hello! I'm *Sofia* —— nice to see you here!
+<!-- ### Hello! I'm *Sofia* —— nice to see you here! -->
 
 <!-- I'm a Full Stack Web Developer focusing and *passionate* in Front End Web Development and Web & User Interface Design. 
 
